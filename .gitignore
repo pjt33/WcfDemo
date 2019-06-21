@@ -1,0 +1,8 @@
+.vs
+log
+**/bin
+**/obj
+**/*.user
+
+# In the interests of paranoia I'm going to redact the publish profile
+Backend/Properties
